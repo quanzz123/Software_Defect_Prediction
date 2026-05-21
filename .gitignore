@@ -1,0 +1,5 @@
+.venv/
+.antigravity/
+.antigravitycli/
+__pycache__/
+*.py[cod]
